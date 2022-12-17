@@ -1,0 +1,38 @@
+{
+    "product_1": {
+        "Zagolovok": "Прочтение аудио книги",
+        "Opisanie": "Любой текст",
+        "Tsena": "5000тг за лист А4",
+        "Kartinka": "./img/1.jpg"
+    },
+    "product_2": {
+        "Zagolovok": "Прочтение стиха",
+        "Opisanie": "Любой текст",
+        "Tsena": "5000тг за лист А4",
+        "Kartinka": "img/2.jpg"
+    },
+    "product_3": {
+        "Zagolovok": "Озвучка видео-игры",
+        "Opisanie": "Любой текст",
+        "Tsena": "5000тг за лист А4",
+        "Kartinka": "img/3.jpg"
+    },
+    "product_4": {
+        "Zagolovok": "Озвучка сериала",
+        "Opisanie": "Любая роль",
+        "Tsena": "10000тг за серию",
+        "Kartinka": "img/4.jpg"
+    },
+    "product_5": {
+        "Zagolovok": "Озвучка фильма",
+        "Opisanie": "Любая роль",
+        "Tsena": "В зависимости от роли",
+        "Kartinka": "img/5.jpg"
+    },
+    "product_6": {
+        "Zagolovok": "Озвучка рекламы",
+        "Opisanie": "Любой текст",
+        "Tsena": "5000тг за лист А4",
+        "Kartinka": "img/6.jpg"
+    }
+}
